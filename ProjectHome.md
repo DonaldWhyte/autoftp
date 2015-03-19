@@ -1,0 +1,5 @@
+![http://wiki.autoftp.googlecode.com/hg/autoftp_logo.png](http://wiki.autoftp.googlecode.com/hg/autoftp_logo.png)
+
+AutoFTP synchronises a directory on your local machine to a server using FTP. This eliminates the need to manually transfer files to and from a server using an FTP client, as it's all done in the background. In addition to being used for website developers, it can act as a backup tool for important data. Simply keep AutoFTP running in your taskbar and it will periodically merge the local directory and the server, keeping both up-to-date in a similar fashion to version control.
+
+Take a look at the **Downloads** section for a stable release. Alternatively, if you want to use the source code directly, go to **Source** for the repository. Instructions on how to install and use AutoFTP are available on the [Instructions](Instructions.md) page.
